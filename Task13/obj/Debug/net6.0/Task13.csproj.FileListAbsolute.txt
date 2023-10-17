@@ -1,0 +1,15 @@
+E:\Учеба в GeekBrains\Семинары по C#\Lesson2_HW\Lesson2_HomeWork\Lesson2_HW\Task13\bin\Debug\net6.0\Task13.exe
+E:\Учеба в GeekBrains\Семинары по C#\Lesson2_HW\Lesson2_HomeWork\Lesson2_HW\Task13\bin\Debug\net6.0\Task13.deps.json
+E:\Учеба в GeekBrains\Семинары по C#\Lesson2_HW\Lesson2_HomeWork\Lesson2_HW\Task13\bin\Debug\net6.0\Task13.runtimeconfig.json
+E:\Учеба в GeekBrains\Семинары по C#\Lesson2_HW\Lesson2_HomeWork\Lesson2_HW\Task13\bin\Debug\net6.0\Task13.dll
+E:\Учеба в GeekBrains\Семинары по C#\Lesson2_HW\Lesson2_HomeWork\Lesson2_HW\Task13\bin\Debug\net6.0\Task13.pdb
+E:\Учеба в GeekBrains\Семинары по C#\Lesson2_HW\Lesson2_HomeWork\Lesson2_HW\Task13\obj\Debug\net6.0\Task13.csproj.AssemblyReference.cache
+E:\Учеба в GeekBrains\Семинары по C#\Lesson2_HW\Lesson2_HomeWork\Lesson2_HW\Task13\obj\Debug\net6.0\Task13.GeneratedMSBuildEditorConfig.editorconfig
+E:\Учеба в GeekBrains\Семинары по C#\Lesson2_HW\Lesson2_HomeWork\Lesson2_HW\Task13\obj\Debug\net6.0\Task13.AssemblyInfoInputs.cache
+E:\Учеба в GeekBrains\Семинары по C#\Lesson2_HW\Lesson2_HomeWork\Lesson2_HW\Task13\obj\Debug\net6.0\Task13.AssemblyInfo.cs
+E:\Учеба в GeekBrains\Семинары по C#\Lesson2_HW\Lesson2_HomeWork\Lesson2_HW\Task13\obj\Debug\net6.0\Task13.csproj.CoreCompileInputs.cache
+E:\Учеба в GeekBrains\Семинары по C#\Lesson2_HW\Lesson2_HomeWork\Lesson2_HW\Task13\obj\Debug\net6.0\Task13.dll
+E:\Учеба в GeekBrains\Семинары по C#\Lesson2_HW\Lesson2_HomeWork\Lesson2_HW\Task13\obj\Debug\net6.0\refint\Task13.dll
+E:\Учеба в GeekBrains\Семинары по C#\Lesson2_HW\Lesson2_HomeWork\Lesson2_HW\Task13\obj\Debug\net6.0\Task13.pdb
+E:\Учеба в GeekBrains\Семинары по C#\Lesson2_HW\Lesson2_HomeWork\Lesson2_HW\Task13\obj\Debug\net6.0\Task13.genruntimeconfig.cache
+E:\Учеба в GeekBrains\Семинары по C#\Lesson2_HW\Lesson2_HomeWork\Lesson2_HW\Task13\obj\Debug\net6.0\ref\Task13.dll
